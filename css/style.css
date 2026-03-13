@@ -9,7 +9,14 @@ header{
 background:#003366;
 color:white;
 text-align:center;
-padding:20px;
+padding:25px;
+}
+
+.logo{
+width:90px;
+display:block;
+margin:auto;
+margin-bottom:10px;
 }
 
 nav{
